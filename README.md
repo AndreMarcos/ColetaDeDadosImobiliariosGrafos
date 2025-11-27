@@ -181,9 +181,13 @@ Documentos de referência estão disponíveis na pasta `ReferencialTeorico/`.
 ## 👥 Autores
 
 ANDRE MARCOS FERREIRA
+
 JUAN PABLO RIBEIRO
+
 MARIA EDUARDA RIBEIRO
+
 PEDRO HENRIQUE BORGES DA SILVA
+
 
 ---
 
