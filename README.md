@@ -4,6 +4,12 @@
 
 Este projeto visa abordar o problema de **planejamento de coleta de dados imobiliários** através de técnicas de otimização baseadas em teoria de grafos. O objetivo principal é melhorar o planejamento de coleta e reduzir o esforço e o tempo necessário para essa demanda.
 
+## 🎥 Vídeo explicativo
+- 
+
+## Relatório
+O relaório está na pasta `Relatorio/`
+
 ## 🎯 Objetivo
 
 O estudo foi desenvolvido com o propósito de otimizar o processo de coleta de dados imobiliários, focando em:
